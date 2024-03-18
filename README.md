@@ -16,7 +16,7 @@
 
 
 <div style= "display: inline-block"><br>
-<img src="https://media.tenor.com/2z9NmjCTR2YAAAAe/mahou-shoujo.png)https://media.tenor.com/2z9NmjCTR2YAAAAe/mahou-shoujo.png" alt="Girl in a jacket" width="120" height="120" align = right>
+<img src="https://external-preview.redd.it/cenas-do-anime-sensual-mahou-shoujo-ni-akogarete-viraliza-v0-wI4wYCXyCBZKm-UHOF6sU3JTNPZpXP4aQxpr23HwrOA.jpg?auto=webp&s=1972826d93e8db8ac87b7e1c3d004a00d47e3a31" alt="Girl in a jacket" width="120" height="120" align = right>
 </div>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
