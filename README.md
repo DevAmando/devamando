@@ -16,7 +16,7 @@
 
 
 <div style= "display: inline-block"><br>
-<img src="https://media.tenor.com/2z9NmjCTR2YAAAAe/mahou-shoujo.png)https://media.tenor.com/2z9NmjCTR2YAAAAe/mahou-shoujo.png" alt="Girl in a jacket" width="90" height="90" align = right>
+<img src="https://media.tenor.com/2z9NmjCTR2YAAAAe/mahou-shoujo.png)https://media.tenor.com/2z9NmjCTR2YAAAAe/mahou-shoujo.png" alt="Girl in a jacket" width="120" height="120" align = right>
 </div>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
