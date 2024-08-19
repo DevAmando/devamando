@@ -22,7 +22,7 @@
 <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-name: Generate Datas
+me: Generate Datas
 
 
 on:
@@ -67,3 +67,6 @@ build_dir: dist
 env:
 
 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+[Snake animation](https://github.com/GabrielaZanetti/DevAmando/blob/output/github-contribution-grid-snake.svg)
+
