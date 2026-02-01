@@ -23,7 +23,7 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAmando&layout=compact&theme=radical)
