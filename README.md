@@ -16,7 +16,6 @@
 ---
 
 ## 📊 GitHub Stats
-![Amando GitHub stats](https://github-readme-stats-git-main-mrdulin.vercel.app/api?username=devamando&show_icons=true&theme=radical)
-
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAmando&layout=compact&theme=radical)
