@@ -17,5 +17,5 @@
 
 ## 📊 GitHub Stats
 
-![Amando GitHub stats](https://github-readme-stats.vercel.app/api?username=devamando&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devamando&layout=compact&theme=radical)
+![Amando GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAmando&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAmando&layout=compact&theme=radical)
